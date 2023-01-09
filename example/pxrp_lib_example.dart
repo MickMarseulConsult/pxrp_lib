@@ -1,3 +1,5 @@
 import 'package:pxrp_lib/pxrp_lib.dart';
 
-void main() {}
+void main() {
+  print("nothing");
+}
